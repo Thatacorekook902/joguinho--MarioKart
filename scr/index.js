@@ -6,7 +6,7 @@ const player1 = {
 };
 
 const player2 = {
-    Nome: "Limãozinha",
+    Nome: "Laranjinha",
     Velocidade: 4,
     Ataque: 3,
     Defesa: 2,
